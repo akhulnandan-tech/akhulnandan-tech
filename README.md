@@ -83,7 +83,7 @@
 
 <div align="center">
 
-### 💡 "Eat. Sleep. Code. Repeat"
+###  "Eat. Sleep. Code. Repeat"
 
 ![](https://komarev.com/ghpvc/?username=akhilesh112606&color=blue&style=for-the-badge)
 
