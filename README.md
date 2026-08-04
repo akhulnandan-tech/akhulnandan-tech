@@ -4,10 +4,11 @@
 
 ### MERN Developer | AI Enthusiast
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I'm%20Akhul%20Nandan!!&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=38&desc=MERN%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;B.Tech+Data+Science+Student;Full+Stack+Developer;Always+Learning+New+Technologies;Open+Source+Contributor"/>
 
 </div>
-
 ---
 
 # 💫 About Me
