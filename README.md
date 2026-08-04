@@ -49,7 +49,7 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ⭐ Exam Verse
 
@@ -58,19 +58,6 @@
 ⭐ Livon Studios Website
 
 ⭐ Car Price Predictor
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilesh112606&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh112606&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
