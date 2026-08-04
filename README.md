@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Akhul Nandan
+# I'm Akhul Nandan!!
 
-### 🚀 Aspiring Software Development Engineer | Full Stack Developer | AI Enthusiast
+### MERN Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;B.Tech+Data+Science+Student;Full+Stack+Developer;Always+Learning+New+Technologies;Open+Source+Contributor"/>
 
@@ -40,13 +40,9 @@
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)   ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
