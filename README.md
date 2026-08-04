@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;B.Tech+Data+Science+Student;Full+Stack+Developer;Always+Learning+New+Technologies;Open+Source+Contributor"/>
 
 </div>
----
 
 # 💫 About Me
 
@@ -25,19 +24,13 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)  [JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)   ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
@@ -51,7 +44,7 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
