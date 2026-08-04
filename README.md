@@ -6,7 +6,7 @@
 
 </div>
 
-# 💫 About Me
+# About Me !
 
 🎓 B.Tech Data Science Student
 
@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ### Languages
 
