@@ -48,35 +48,26 @@
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)  ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ Faculty Dashboard
+⭐ Exam Verse
 
 ⭐ OpsFlow
 
 ⭐ Livon Studios Website
 
-⭐ MobileHub
+⭐ Car Price Predictor
 
-⭐ Tollywood Movie Rating Platform
 
 ---
 
@@ -92,39 +83,19 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akhilesh112606&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhilesh112606&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/akhul-nandan-57a23937b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:akhulnandan22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://instagram.com/YOURUSERNAME">
+<a href="https://instagram.com/akhulnandan">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
 </a>
 
